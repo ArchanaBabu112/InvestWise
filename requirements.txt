@@ -1,0 +1,19 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+# libmagic
+# python-magic
+# python-magic-bin
+# OpenAI 
+torch
+accelerate
+langchain_community
+gtts
+ctransformers
+playsound
+sentence_transformers
+streamlit-chat
+huggingface-hub
